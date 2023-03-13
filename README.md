@@ -56,7 +56,7 @@ PASSWORD_CLIENT_SECRET=VXVixg2yt8fa05Yezj3kHhEPBv6T2AfcM5NePfNG
 1. Obtener token de autenticación  
 
 **Metodo:** POST 
-**Endpoint:** /api/v1/users/token
+**Endpoint:** /api/v1/users/token  
 **Headers:**  
 
 | Key | Value |
@@ -86,7 +86,7 @@ PASSWORD_CLIENT_SECRET=VXVixg2yt8fa05Yezj3kHhEPBv6T2AfcM5NePfNG
 2. Obtener coincidencias para un nombre  
 
 **Metodo:** GET 
-**Endpoint:** /api/v1/match-names
+**Endpoint:** /api/v1/match-names  
 **Headers:**  
 
 | Key | Value |
@@ -129,7 +129,7 @@ PASSWORD_CLIENT_SECRET=VXVixg2yt8fa05Yezj3kHhEPBv6T2AfcM5NePfNG
 3. Obtener resultados de busqueda anteriores por identificador  
 
 **Metodo:** GET 
-**Endpoint:** /api/v1/{uuid}/match-names
+**Endpoint:** /api/v1/{uuid}/match-names  
 **Headers:**  
 
 | Key | Value |
