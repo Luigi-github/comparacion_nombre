@@ -1,6 +1,6 @@
 ## Algoritmo Jaro-Winkler
 
-El algoritmo Jaro-Winkler es un método para calcular la similitud entre dos cadenas de texto. Este algoritmo se utiliza comúnmente en aplicaciones de emparejamiento de registros y deduplicación de datos.
+El algoritmo Jaro-Winkler es un método para calcular la similitud entre dos cadenas de texto. Este algoritmo se utiliza comúnmente en aplicaciones de emparejamiento de registros y de duplicación de datos.
 
 El algoritmo Jaro-Winkler calcula la similitud entre dos cadenas de texto basándose en la cantidad de caracteres coincidentes y la cantidad de transposiciones necesarias para convertir una cadena en la otra. La similitud se expresa como una puntuación entre 0 y 1, donde 0 indica que las cadenas son completamente diferentes y 1 indica que las cadenas son idénticas.
 
